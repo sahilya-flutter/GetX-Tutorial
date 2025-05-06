@@ -1,0 +1,26 @@
+name: getx_api_signup
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  animated_bottom_navigation_bar: ^1.4.0
+  flutter:
+    sdk: flutter
+  get: ^4.7.2
+  http: ^1.3.0
+  image_picker: ^1.1.2
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

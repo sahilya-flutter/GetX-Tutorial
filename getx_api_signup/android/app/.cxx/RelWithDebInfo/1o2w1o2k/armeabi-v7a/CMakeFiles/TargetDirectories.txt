@@ -1,0 +1,2 @@
+D:/GetX-Tutorial/getx_api_signup/android/app/.cxx/RelWithDebInfo/1o2w1o2k/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GetX-Tutorial/getx_api_signup/android/app/.cxx/RelWithDebInfo/1o2w1o2k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
